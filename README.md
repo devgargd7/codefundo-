@@ -1,5 +1,5 @@
 # codefundo-
-The losses caused due to a natural calamity are unavoidable yet minimisable. 
+Although losses caused due to a natural calamity are unavoidable but yet with proper measures they become minimisable. 
 The system we build knows the location through Google Location and sets a large radius around it where a probable disaster might affect the people. Our system focusses on:
 1. Prediction - Receiving data and alerts from meteorological department of the country about any upcoming disaster.
 2. Identifying high danger areas - The system locates areas, if any, where there are more chances of destruction. Like, in a flood, it will take an image of the contour of that area to be affected and identify any low lying areas.
